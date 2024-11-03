@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF79C6&width=435&lines=Hello+everyone!+;welcome+to+my+profile!+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF79C6&width=435&lines=Hello+everyone!++I'm+esther;I'm+so+happy+to+have+you+here;welcome+to+my+profile!+%3C3)](https://git.io/typing-svg)
 
  <img src=https://media.tenor.com/B-qvdId4Q6EAAAAj/pixel-cat.gif alt="Pixel Art" align="right" width="200">
 
