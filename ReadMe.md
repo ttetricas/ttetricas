@@ -4,7 +4,7 @@
  <img src=https://media.tenor.com/B-qvdId4Q6EAAAAj/pixel-cat.gif alt="Pixel Art" align="right" width="200">
 
 
-### Studying in this moment:
+## Studying in this moment:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
