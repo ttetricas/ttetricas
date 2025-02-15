@@ -17,7 +17,7 @@
 ![Visual Studio Code](https://camo.githubusercontent.com/340454103e3ec1d033648de7be42c8e2d95ea190673f6049d4e39173229ffc8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7673636f64652d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d7673636f6465266c6f676f436f6c6f723d7768697465) 
 
 ### Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/esther-santana-meirelles-715593266/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)[(https://www.linkedin.com/in/esther-santana-meirelles-715593266/) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <div align="left">
