@@ -22,13 +22,7 @@
 <a href = "mailto:contato@esthermeirellesdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div align="left">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-  <img src="https://github-readme-stats.vercel.app/api?username=ttetricas"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttetricas&layout=compact"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ttetricas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
