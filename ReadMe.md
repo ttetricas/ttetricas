@@ -21,7 +21,7 @@
 ### Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esther-santana-meirelles-715593266/) 
 <a href = "mailto:contato@esthermeirellesdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar%20site-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ttetricas.github.io)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-1A1A1D?style=flat-square&logo=vercel&logoColor=FC6BA7)](https://ttetricas.github.io)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ttetricas&show_icons=true&theme=dracula&count_private=true"  />
