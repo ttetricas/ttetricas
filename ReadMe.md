@@ -1,35 +1,59 @@
-## Hello Walkers! 👋
+<div align="center">
 
+## <img src="assets/logo-ttetricas.png" width="300" alt="TTETRICAS">
 
- <img src=https://media.tenor.com/B-qvdId4Q6EAAAAj/pixel-cat.gif alt="Pixel Art" align="right" width="200">
+### oh hi, you found me.
 
+coding stuff, making a mess  
+and pretending everything is intentional.
 
-### Technologies I use:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### Workstation Tools:
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esther-santana-meirelles-715593266/) 
-<a href = "mailto:contato@esthermeirellesdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-1A1A1D?style=flat-square&logo=vercel&logoColor=FC6BA7)](https://ttetricas.github.io)
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttetricas&show_icons=true&theme=dracula&count_private=true"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ttetricas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ttetricas&style=for-the-badge&color=FF79C6&label=VISITAS" alt="Visitas">
+</div>
 
+<div align="right">
+  <img src="https://media.tenor.com/B-qvdId4Q6EAAAAj/pixel-cat.gif" width="150" alt="Pixel cat">
+</div>
 
----
+### ✦ things i use to make stuff
+
+![HTML5](https://img.shields.io/badge/html5-282A36.svg?style=for-the-badge&logo=html5&logoColor=FF79C6)
+![CSS3](https://img.shields.io/badge/css3-282A36.svg?style=for-the-badge&logo=css3&logoColor=FF79C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=FF79C6)
+![PHP](https://img.shields.io/badge/PHP-282A36?style=for-the-badge&logo=php&logoColor=FF79C6)
+![Java](https://img.shields.io/badge/Java-282A36?style=for-the-badge&logo=openjdk&logoColor=FF79C6)
+![C#](https://img.shields.io/badge/C%23-282A36?style=for-the-badge&logo=csharp&logoColor=FF79C6)
+
+<br>
+
+### ✦ my little toolbox
+
+![VS Code](https://img.shields.io/badge/VS%20Code-282A36?style=for-the-badge&logo=visualstudiocode&logoColor=FF79C6)
+![Git](https://img.shields.io/badge/Git-282A36?style=for-the-badge&logo=git&logoColor=FF79C6)
+![GitHub](https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=FF79C6)
+
+<br>
+
+### ✦ find me around
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=FF79C6)](https://www.linkedin.com/in/esther-santana-meirelles-715593266/)
+[![Gmail](https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=FF79C6)](mailto:esthermeirellesdev@gmail.com)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-282A36?style=for-the-badge&logoColor=FF79C6)](https://ttetricas.github.io)
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ttetricas&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="165" alt="GitHub stats">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ttetricas&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="165" alt="Most used languages">
+</div>
+
+<br>
+
+<div align="right">
+  <i>anyway, look around. ♡</i>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
